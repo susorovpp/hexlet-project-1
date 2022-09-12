@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/susorovpp/hexlet-project-1/issues"
   },
-  "homepage": "https://github.com/susorovpp/hexlet-project-1#readme"
+  "homepage": "https://github.com/susorovpp/hexlet-project-1#readme",
+  "type": "module",
+  "bin": {
+    "brain-games": "bin/brain-games.js"
+  }
 }
