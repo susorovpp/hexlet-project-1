@@ -19,7 +19,8 @@
   "type": "module",
   "bin": {
     "even": "src/games/brain-even.js",
-    "calc": "src/games/brain-calc.js"
+    "calc": "src/games/brain-calc.js",
+    "gcd": "src/games/brain-gcd.js"
   },
   "dependencies": {
     "readline-sync": "1.4.10"
