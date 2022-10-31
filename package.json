@@ -20,7 +20,8 @@
   "bin": {
     "even": "src/games/brain-even.js",
     "calc": "src/games/brain-calc.js",
-    "gcd": "src/games/brain-gcd.js"
+    "gcd": "src/games/brain-gcd.js",
+    "progression": "src/games/brain-progression.js"
   },
   "dependencies": {
     "readline-sync": "1.4.10"
