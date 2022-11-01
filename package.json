@@ -18,10 +18,11 @@
   "homepage": "https://github.com/susorovpp/hexlet-project-1#readme",
   "type": "module",
   "bin": {
-    "even": "src/games/brain-even.js",
-    "calc": "src/games/brain-calc.js",
-    "gcd": "src/games/brain-gcd.js",
-    "progression": "src/games/brain-progression.js"
+    "even": "bin/brain-even.js",
+    "calc": "bin/brain-calc.js",
+    "gcd": "bin/brain-gcd.js",
+    "progression": "bin/brain-progression.js",
+    "prime": "bin/brain-prime.js"
   },
   "dependencies": {
     "readline-sync": "1.4.10"
